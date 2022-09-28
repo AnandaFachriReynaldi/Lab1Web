@@ -31,3 +31,7 @@ Tag <p> adalah perintah untuk membuat paragraf baru sedangkan tag <br> perintah 
 ```
 Perbedaannya adalah jika gambar berhasil ditampilkan dan jika kursor ada pada gambar tersebut maka akan muncul sebuah balon title. Sedangkan jika gambar gagal ditampilkan maka akan muncul teks dalam atribut alt tersebut.
 ```
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+```
+Agar tampilan gambar proporsional cukup mengisi salah satunya karena jika mengisi keduanya gambar tersebut akan berubah sesuai dengan ukuran yang kita mau sedangkan jika mengisi salah satunya maka atribut satunya akan menyesuaikan secara otomatis dan gambar akan proporsional.
+```
