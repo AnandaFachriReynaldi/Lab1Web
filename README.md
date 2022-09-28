@@ -11,6 +11,7 @@
 ![Step3](SS/SS3.png)
 4. Memformat teks dan melakukan eksperimen menggunakan tag `<mark>`,`<b>`,`<i>`,`<ins>`
 ![Step4](SS/SS4.png)
-5. Menyisipkan gambar
+5. Menyisipkan gambar <br />
 Catatan : File harus berada di dalam folder yang sama dengan file .html
-![Step5](SS/SS5.png)
+![Step5](SS/SS7.png) <br />
+![Step6](SS/SS5.png)
