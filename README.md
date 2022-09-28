@@ -15,3 +15,5 @@
 Catatan : File harus berada di dalam folder yang sama dengan file .html
 ![Step5](SS/SS7.png) <br />
 ![Step6](SS/SS5.png)
+6. Menambahkan Hyperlink
+![Step7](SS/SS6.png)
