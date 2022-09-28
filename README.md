@@ -33,5 +33,12 @@ Perbedaannya adalah jika gambar berhasil ditampilkan dan jika kursor ada pada ga
 ```
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 ```
-Agar tampilan gambar proporsional cukup mengisi salah satunya karena jika mengisi keduanya gambar tersebut akan berubah sesuai dengan ukuran yang kita mau sedangkan jika mengisi salah satunya maka atribut satunya akan menyesuaikan secara otomatis dan gambar akan proporsional.
+Cukup mengisi salah satu karena jika mengisi keduanya gambar tersebut akan berubah sesuai dengan ukuran yang dimasukan sedangkan jika mengisi salah satu maka atribut satunya akan menyesuaikan secara otomatis dan gambar akan proporsional.
+```
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+```
+_blank  : Membuka halaman website di tab baru.
+_self   : Membuka halaman website di tab ini.
+_top    : Membuka halaman website dan membatalkan semua frame.
+_parent : Membuka halaman website pada parent frame.
 ```
