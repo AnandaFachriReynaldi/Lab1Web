@@ -21,9 +21,13 @@ Catatan : File harus berada di dalam folder yang sama dengan file .html
 ## Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 ```
-Saat terjadi kesalahan penulisan tag tidak ada error, hanya saja tidak terjadi perubahan
+Saat terjadi kesalahan penulisan tag tidak ada error, hanya saja tidak terjadi perubahan.
 ```
 2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya!
 ```
-Tag `<p>` adalah perintah untuk membuat paragraf baru sedangkan tag `<br>` perintah untuk membuat garis baru. Perbedaannya tag `<p>` memiliki jarak dengan paragraf di atasnya sedangkan tag `<br>` tidak memiliki jarak dengan paragraf di atasnya. 
+Tag <p> adalah perintah untuk membuat paragraf baru sedangkan tag <br> perintah untuk membuat garis baru. Perbedaannya tag <p> memiliki jarak dengan paragraf di atasnya sedangkan tag <br> tidak memiliki jarak dengan paragraf di atasnya. 
+```
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+```
+Perbedaannya adalah jika gambar berhasil ditampilkan dan jika kursor ada pada gambar tersebut maka akan muncul sebuah balon title. Sedangkan jika gambar gagal ditampilkan maka akan muncul teks dalam atribut alt tersebut.
 ```
