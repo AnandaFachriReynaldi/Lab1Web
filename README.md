@@ -5,7 +5,9 @@
 
 1. Membuat file baru di VSCode dan menambahkan judul "Tag Dasar HTML"
 ![Step1](SS/SS1.png)
-2. Membuat Paragraf 
+2. Membuat paragraf 
 ![Step2](SS/SS2.png)
-3. Menambahkan Judul dan Mengatur posisi paragraf dengan atribut 'align'
+3. Menambahkan judul paragraf dan mengatur posisi tulisan dengan atribut 'align'
 ![Step3](SS/SS3.png)
+4. Memformat teks dan melakukan eksperimen menggunakan tag '<mark'>,'<b>','<i>','<ins>'
+![Step4](SS/SS4.png)
