@@ -23,4 +23,7 @@ Catatan : File harus berada di dalam folder yang sama dengan file .html
 ```
 Saat terjadi kesalahan penulisan tag tidak ada error, hanya saja tidak terjadi perubahan
 ```
-2. 
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya!
+```
+Tag `<p>` adalah perintah untuk membuat paragraf baru sedangkan tag `<br>` perintah untuk membuat garis baru. Perbedaannya tag `<p>` memiliki jarak dengan paragraf di atasnya sedangkan tag `<br>` tidak memiliki jarak dengan paragraf di atasnya. 
+```
