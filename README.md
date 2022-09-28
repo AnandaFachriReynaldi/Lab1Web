@@ -17,3 +17,10 @@ Catatan : File harus berada di dalam folder yang sama dengan file .html
 ![Step6](SS/SS5.png)
 6. Menambahkan Hyperlink
 ![Step7](SS/SS6.png)
+
+## Jawab Pertanyaan Berikut
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+```
+Saat terjadi kesalahan penulisan tag tidak ada error, hanya saja tidak terjadi perubahan
+```
+2. 
